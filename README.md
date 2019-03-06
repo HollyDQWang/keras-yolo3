@@ -1,3 +1,13 @@
+# Musical Instrument Retrieval
+
+Goal: Building an object detection model that detects and classify musical instruments from an image/video. __(Fine-Grained Categorization)__
+
+We want our model to
+  1) Detect and draw bounding boxes around all musical instruments on an image/ a frame of a video. __(Localization)__
+  2) Classify models of the musical instruments within an image __(classification/retrieval)__
+  
+ 
+ 
 # keras-yolo3
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
