@@ -10,7 +10,7 @@ We want our model to
 
 We have built a model that detects guitars from an image by fine-tuning [yolo-v3](https://pjreddie.com/media/files/papers/YOLOv3.pdf) model. Below is the demo.
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/mcDuB0BJExY)
  
  
 # keras-yolo3
