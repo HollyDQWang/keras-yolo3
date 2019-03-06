@@ -8,13 +8,16 @@ We want our model to
 
 ## Progress so far
 
+### Localization
 We have built a model that detects guitars from an image by fine-tuning [yolo-v3](https://pjreddie.com/media/files/papers/YOLOv3.pdf) model. Below is the demo.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=mcDuB0BJExY
 " target="_blank"><img src="http://img.youtube.com/vi/mcDuB0BJExY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
  
- 
+### Classification/Retrieval
+
+
 # keras-yolo3
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
