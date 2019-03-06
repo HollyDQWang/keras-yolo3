@@ -13,7 +13,7 @@ We have built a model that detects guitars from an image by fine-tuning [yolo-v3
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=mcDuB0BJExY
 " target="_blank"><img src="http://img.youtube.com/vi/mcDuB0BJExY/0.jpg" 
-alt="Ed_Sheeran" width="440" height="380" border="10" /></a>
+alt="Ed_Sheeran" width="360" height="270" border="10" /></a>
  
 ### Classification/Retrieval
 
