@@ -5,7 +5,10 @@ Goal: Building an object detection model that detects and classify musical instr
 We want our model to
   1) Detect and draw bounding boxes around all musical instruments on an image/ a frame of a video. __(Localization)__
   2) Classify models of the musical instruments within an image __(classification/retrieval)__
-  
+
+## Progress so far
+
+We have built a model that detects guitars from an image by fine-tuning [yolo-v3 (https://pjreddie.com/media/files/papers/YOLOv3.pdf)] model. Below is the demo.
  
  
 # keras-yolo3
