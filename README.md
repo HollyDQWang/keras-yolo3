@@ -8,7 +8,7 @@ We want our model to
 
 ## Progress so far
 
-We have built a model that detects guitars from an image by fine-tuning [yolo-v3 (https://pjreddie.com/media/files/papers/YOLOv3.pdf)] model. Below is the demo.
+We have built a model that detects guitars from an image by fine-tuning [yolo-v3](https://pjreddie.com/media/files/papers/YOLOv3.pdf) model. Below is the demo.
  
  
 # keras-yolo3
