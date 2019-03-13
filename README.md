@@ -10,7 +10,8 @@ We want our model to
 
 ### Localization
 We have built a model that detects guitars from an image by fine-tuning [yolo-v3](https://pjreddie.com/media/files/papers/YOLOv3.pdf) model. Below is the demo.
-![alt text](https://github.com/Jasoncho0914/keras-yolo3/videos_sample/edsheeran_gif "demo")
+
+![alt text](https://github.com/Jasoncho0914/keras-yolo3/videos_sample/edsheeran_gif.gif "demo")
 
  
 ### Classification/Retrieval
