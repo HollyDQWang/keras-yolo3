@@ -1,17 +1,17 @@
 *.jpg
 *.png
 *.weights
-*.h5
-logs/
 *_test.py
 *.xml
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-*.JPEG
 # C extensions
 *.so
+*.jpeg
+*.mp4
+*.h5
 
 # Distribution / packaging
 .Python

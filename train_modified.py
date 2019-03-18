@@ -30,8 +30,8 @@ def _main():
             freeze_body=2, weights_path='model_data/tiny_yolo_weights.h5')
     else:
         model = create_model(input_shape, anchors, num_classes,
-            freeze_body=2, weights_path='model_data/yolo_weights.h5') # make sure you know what you freeze
-    
+            freeze_body=2, weights_path='model_data/yolo.h5') # make sure you know what you freeze
+
     #Finetuning after....
 #     model = create_model(input_shape, anchors, num_classes,
 #             freeze_body=2, weights_path='logs/000/trained_weights_20_epochs.h5')
@@ -83,7 +83,7 @@ def _main():
             steps_per_epoch=max(1, num_train//batch_size),
             validation_data=data_generator_wrapper(lines[num_train:], batch_size, input_shape, anchors, num_classes),
             validation_steps=max(1, num_val//batch_size),
-            epochs=70,
+            epochs=100,
             initial_epoch=50,
             callbacks=[logging, checkpoint, reduce_lr, early_stopping])
         model.save_weights(log_dir + 'trained_weights_final.h5')
