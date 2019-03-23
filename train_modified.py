@@ -17,7 +17,7 @@ def _main():
     annotation_path = 'model_data/MIR_ILSVRC_train.txt'
     log_dir = 'logs/000/'
     classes_path = 'model_data/MIR_classes.txt'
-    anchors_path = 'model_data/yolo_anchors.txt'
+    anchors_path = 'yolo_anchors.txt'
     class_names = get_classes(classes_path)
     num_classes = len(class_names)
     anchors = get_anchors(anchors_path)
@@ -38,7 +38,7 @@ def _main():
 
     logging = TensorBoard(log_dir=log_dir)
     checkpoint = ModelCheckpoint(log_dir + 'ep{epoch:03d}-loss{loss:.3f}-val_loss{val_loss:.3f}.h5',
-        monitor='val_loss', save_weights_only=True, save_best_only=True, period=10)
+        monitor='val_loss', save_weights_only=True, save_best_only=True, period=150)
     reduce_lr = ReduceLROnPlateau(monitor='val_loss', factor=0.1, patience=3, verbose=1)
     early_stopping = EarlyStopping(monitor='val_loss', min_delta=0, patience=10, verbose=1)
 
