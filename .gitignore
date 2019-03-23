@@ -12,6 +12,7 @@ __pycache__/
 *.h5
 *.jpeg
 *.jpg
+*.JPEG
 
 # Distribution / packaging
 .Python
