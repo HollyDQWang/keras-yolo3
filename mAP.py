@@ -48,9 +48,9 @@ def bb_intersection_over_union(boxA, boxB):
 # In[105]:
 
 
-def count_t_positive(boxA, boxB, threshold = 0.5):
-# Assume that boxA < boxB
+def count_t_positive_1(boxA, boxB, threshold = 0.5):
     TP = 0
+    FP = 0
     for ground_t in boxA:
         min_ind = 0
         ind = 0
@@ -65,9 +65,36 @@ def count_t_positive(boxA, boxB, threshold = 0.5):
 
         closest_out_box = boxB[min_ind]
         closest_out_box_m = np.array([closest_out_box[1],closest_out_box[0],closest_out_box[3],closest_out_box[2]])
-        if bb_intersection_over_union(ground_t,closest_out_box_m)>0.5:
+        
+        if bb_intersection_over_union(ground_t,closest_out_box_m)>threshold:
             TP+=1
-    return TP
+        else:
+            FP+=1
+    return TP,FP
+
+
+def count_t_positive_2(boxA, boxB, threshold = 0.5):
+    TP = 0
+    FP = 0
+    for out_box in boxB:
+        min_ind = 0
+        ind = 0
+        min_dist = float('Inf')
+        predict_box = np.array([out_box[1],out_box[0],out_box[3],out_box[2]])
+        for ground_t in boxA:
+            dist = np.linalg.norm(predict_box-ground_t)
+            if dist < min_dist:
+                min_ind = ind
+                min_dist = dist
+            ind += 1
+
+        closest_out_box = boxA[min_ind]
+        
+        if bb_intersection_over_union(ground_t,closest_out_box)>threshold:
+            TP+=1
+        else:
+            FP+=1
+    return TP,FP
 
 
 # In[106]:
@@ -105,19 +132,26 @@ if "__main__":
 
         if N_p > N_gt:
             False_positive +=  (N_p - N_gt)
+            if N_p != 0 and N_gt != 0:
+                TP,FP = count_t_positive_1(ground_truth_boxes,out_boxes)
+                True_positive += TP
+                False_positive += FP
 
 
-        elif N_p < N_gt:
+        elif N_p =< N_gt:
             False_negative +=  (N_gt - N_p)
+            if N_p != 0 and N_gt != 0:
+                TP,FP = count_t_positive_2(ground_truth_boxes,out_boxes)
+                True_positive += TP
+                False_positive += FP
 
-
-        if N_p != 0 and N_gt != 0:
-            True_positive += count_t_positive(ground_truth_boxes,out_boxes)
-    print("Number of Observations: "+ground_truth_N)
-    print("Number of Predictions: "+ prediction_N)
-    print("Number of False Positives: "+ False_positive)
-    print("Number of False Negatives:" + False_negative)
-    print("Number of True Positives: "+ True_positive)
+        
+            
+    print("Number of Observations: "+ str(ground_truth_N))
+    print("Number of Predictions: "+ str(prediction_N))
+    print("Number of False Positives: "+ str(False_positive))
+    print("Number of False Negatives:" + str(False_negative))
+    print("Number of True Positives: "+ str(True_positive))
 
 
 # In[ ]:
