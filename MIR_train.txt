@@ -1,197 +1,197 @@
-PPMI_/train/With_Guitar_177.jpg 129,237,393,335,0
-PPMI_/train/With_Guitar_183.jpg 100,16,217,300,0
-PPMI_/train/With_Guitar_187.jpg 984,887,2457,1256,0
-PPMI_/train/With_Guitar_000.jpg 170,383,302,434,0 306,408,381,485,0
-PPMI_/train/With_Guitar_002.jpg 20,106,261,260,0
-PPMI_/train/With_Guitar_003.jpg 211,362,693,588,0 610,400,901,498,0
-PPMI_/train/With_Guitar_005.jpg 170,116,718,680,0 757,612,1144,875,0
-PPMI_/train/With_Guitar_007.jpg 67,126,628,323,0
-PPMI_/train/With_Guitar_009.jpg 88,46,216,378,0 311,53,453,379,0 15,214,81,420,0 5,4,63,196,0
-PPMI_/train/With_Guitar_010.jpg 122,98,330,439,0 348,51,515,431,0
-PPMI_/train/With_Guitar_011.jpg 132,116,461,395,0
-PPMI_/train/With_Guitar_013.jpg 454,191,210,363,0
-PPMI_/train/With_Guitar_014.jpg 99,17,127,123,0 186,15,241,124,0 216,69,273,243,0 253,163,305,291,0 35,213,281,292,0 76,81,111,195,0
-PPMI_/train/With_Guitar_015.jpg 37,139,225,247,0 238,179,386,235,0
-PPMI_/train/With_Guitar_017.jpg 61,131,218,330,0 167,133,242,323,0 257,85,427,251,0
-PPMI_/train/With_Guitar_019.jpg 390,118,117,383,0
-PPMI_/train/With_Guitar_023.jpg 188,65,539,378,0
-PPMI_/train/With_Guitar_024.jpg 40,204,132,513,0
-PPMI_/train/With_Guitar_026.jpg 39,119,308,229,0
-PPMI_/train/With_Guitar_027.jpg 39,70,131,350,0 201,77,508,344,0
-PPMI_/train/With_Guitar_028.jpg 202,170,321,278,0 320,205,457,260,0 375,74,413,186,0
-PPMI_/train/With_Guitar_029.jpg 162,61,413,351,0
-PPMI_/train/With_Guitar_030.jpg 181,319,450,69,0
-PPMI_/train/With_Guitar_032.jpg 118,60,205,117,0
-PPMI_/train/With_Guitar_035.jpg 196,152,469,235,0
-PPMI_/train/With_Guitar_039.jpg 164,322,494,483,0
-PPMI_/train/With_Guitar_040.jpg 246,117,380,340,0
-PPMI_/train/With_Guitar_041.jpg 92,89,193,201,0
-PPMI_/train/With_Guitar_044.jpg 216,145,448,249,0
-PPMI_/train/With_Guitar_047.jpg 192,179,303,323,0 18,122,54,209,0 78,1,130,96,0 40,2,92,99,0 6,2,57,102,0
-PPMI_/train/With_Guitar_048.jpg 37,157,201,281,0
-PPMI_/train/With_Guitar_050.jpg 111,12,304,162,0
-PPMI_/train/With_Guitar_054.jpg 35,251,220,359,0
-PPMI_/train/With_Guitar_056.jpg 150,8,315,174,0
-PPMI_/train/With_Guitar_057.jpg 283,97,380,235,0 447,128,476,189,0
-PPMI_/train/With_Guitar_058.jpg 168,11,318,264,0 19,207,322,312,0 274,255,500,335,0
-PPMI_/train/With_Guitar_059.jpg 25,126,254,195,0
-PPMI_/train/With_Guitar_062.jpg 26,122,211,248,0
-PPMI_/train/With_Guitar_063.jpg 22,15,284,361,0
-PPMI_/train/With_Guitar_066.jpg 37,40,117,278,0 131,163,293,243,0 125,219,348,301,0 163,381,183,442,0 275,340,300,400,0 263,398,286,446,0 316,318,337,370,0 2,58,43,281,0
-PPMI_/train/With_Guitar_067.jpg 193,316,346,146,0
-PPMI_/train/With_Guitar_068.jpg 259,283,490,461,0
-PPMI_/train/With_Guitar_071.jpg 60,4,218,366,0 318,3,449,360,0
-PPMI_/train/With_Guitar_072.jpg 240,166,893,662,0
-PPMI_/train/With_Guitar_073.jpg 73,15,201,396,0 262,1,392,427,0
-PPMI_/train/With_Guitar_074.jpg 28,26,150,403,0 191,13,305,411,0 293,289,697,457,0
-PPMI_/train/With_Guitar_076.jpg 408,390,169,640,0
-PPMI_/train/With_Guitar_077.jpg 850,176,402,585,0
-PPMI_/train/With_Guitar_080.jpg 533,8,640,340,0 192,457,547,600,0 19,368,155,465,0
-PPMI_/train/With_Guitar_081.jpg 234,47,348,244,0 494,281,703,362,0 151,346,452,407,0 471,386,638,464,0 16,429,377,542,0
-PPMI_/train/With_Guitar_083.jpg 392,28,839,548,0
-PPMI_/train/With_Guitar_085.jpg 417,150,673,855,0
-PPMI_/train/With_Guitar_086.jpg 185,171,420,691,0
-PPMI_/train/With_Guitar_087.jpg 432,102,279,249,0
-PPMI_/train/With_Guitar_089.jpg 249,19,353,308,0
-PPMI_/train/With_Guitar_091.jpg 0,564,412,733,0 372,536,651,688,0 1025,544,1280,682,0
-PPMI_/train/With_Guitar_092.jpg 32,210,369,400,0
-PPMI_/train/With_Guitar_093.jpg 118,104,277,177,0
-PPMI_/train/With_Guitar_097.jpg 145,175,294,559,0 414,195,641,552,0 250,446,696,611,0
-PPMI_/train/With_Guitar_098.jpg 213,274,442,503,0 165,16,285,262,0 284,31,379,259,0 385,3,500,265,0 0,70,81,290,0
-PPMI_/train/With_Guitar_102.jpg 204,124,331,174,0 333,162,446,188,0 454,135,588,172,0 130,151,249,190,0
-PPMI_/train/With_Guitar_104.jpg 57,171,195,300,0
-PPMI_/train/With_Guitar_105.jpg 38,116,181,168,0
-PPMI_/train/With_Guitar_107.jpg 25,140,192,475,0
-PPMI_/train/With_Guitar_108.jpg 223,209,519,345,0
-PPMI_/train/With_Guitar_110.jpg 105,288,318,562,0 334,279,461,637,0 528,327,838,562,0 450,1,559,227,0 562,0,651,269,0
-PPMI_/train/With_Guitar_112.jpg 7,128,123,398,0 167,125,257,382,0 314,118,428,410,0 449,124,553,408,0 104,454,385,480,0
-PPMI_/train/With_Guitar_113.jpg 81,126,295,323,0
-PPMI_/train/With_Guitar_116.jpg 314,406,638,638,0
-PPMI_/train/With_Guitar_119.jpg 346,315,687,441,0 54,390,344,474,0 41,241,199,288,0 60,192,228,235,0 351,208,479,292,0 517,282,766,369,0 648,218,760,284,0 479,183,525,233,0 258,199,369,301,0 198,162,302,332,0
-PPMI_/train/With_Guitar_121.jpg 200,366,426,958,0 318,281,785,757,0 836,303,1246,728,0
-PPMI_/train/With_Guitar_125.jpg 15,296,433,364,0 122,109,246,305,0 254,87,343,166,0
-PPMI_/train/With_Guitar_126.jpg 53,139,382,369,0
-PPMI_/train/With_Guitar_129.jpg 100,225,440,317,0
-PPMI_/train/With_Guitar_130.jpg 116,202,319,281,0
-PPMI_/train/With_Guitar_136.jpg 60,299,177,616,0 133,325,310,388,0 259,238,394,491,0 415,302,551,605,0
-PPMI_/train/With_Guitar_137.jpg 552,264,301,582,0
-PPMI_/train/With_Guitar_141.jpg 276,89,73,364,0
-PPMI_/train/With_Guitar_142.jpg 328,245,612,361,0 102,242,338,368,0
-PPMI_/train/With_Guitar_144.jpg 335,5,93,221,0
-PPMI_/train/With_Guitar_146.jpg 1825,822,324,2246,0
-PPMI_/train/With_Guitar_149.jpg 856,284,1151,540,0 488,180,778,409,0 181,422,578,851,0 0,257,198,332,0
-PPMI_/train/With_Guitar_151.jpg 554,141,388,376,0 381,210,254,382,0 28,248,163,347,0
-PPMI_/train/With_Guitar_152.jpg 386,61,203,377,0
-PPMI_/train/With_Guitar_154.jpg 200,173,446,271,0 4,179,282,289,0
-PPMI_/train/With_Guitar_159.jpg 11,204,146,322,0 369,214,430,369,0
-PPMI_/train/With_Guitar_160.jpg 41,225,360,410,0 229,235,360,480,0
-PPMI_/train/With_Guitar_161.jpg 192,124,521,439,0
-PPMI_/train/With_Guitar_163.jpg 372,258,534,325,0 381,148,281,298,0 112,230,260,306,0
-PPMI_/train/With_Guitar_164.jpg 407,461,697,704,0
-PPMI_/train/With_Guitar_165.jpg 76,166,379,286,0
-PPMI_/train/With_Guitar_168.jpg 74,158,202,233,0
-PPMI_/train/With_Guitar_170.jpg 489,330,960,588,0 848,430,1056,678,0 293,431,43,705,0
-PPMI_/train/With_Guitar_171.jpg 0,149,105,205,0 87,86,129,149,0 239,207,73,291,0 212,247,400,300,0 400,194,326,264,0 360,180,239,229,0
-PPMI_/train/With_Guitar_172.jpg 500,88,203,317,0
-PPMI_/train/With_Guitar_174.jpg 366,205,171,373,0
-PPMI_/train/With_Guitar_175.jpg 366,118,151,380,0
-PPMI_/train/With_Guitar_176.jpg 457,169,254,287,0
-PPMI_/train/Play_Guitar_003.jpg 1465,608,380,1058,0
-PPMI_/train/Play_Guitar_004.jpg 844,261,429,501,0
-PPMI_/train/Play_Guitar_007.jpg 113,332,665,534,0
-PPMI_/train/Play_Guitar_014.jpg 634,337,450,430,0
-PPMI_/train/Play_Guitar_019.jpg 1248,463,510,1312,0
-PPMI_/train/Play_Guitar_020.jpg 380,125,42,309,0
-PPMI_/train/Play_Guitar_021.jpg 832,494,1778,988,0
-PPMI_/train/Play_Guitar_022.jpg 507,498,1020,716,0 411,390,604,895,0
-PPMI_/train/Play_Guitar_023.jpg 200,221,464,335,0
-PPMI_/train/Play_Guitar_024.jpg 489,424,968,606,0
-PPMI_/train/Play_Guitar_025.jpg 410,372,1054,651,0
-PPMI_/train/Play_Guitar_026.jpg 198,213,511,322,0
-PPMI_/train/Play_Guitar_028.jpg 176,104,385,198,0
-PPMI_/train/Play_Guitar_030.jpg 1021,377,129,960,0
-PPMI_/train/Play_Guitar_031.jpg 41,148,320,299,0
-PPMI_/train/Play_Guitar_033.jpg 167,406,1003,718,0
-PPMI_/train/Play_Guitar_034.jpg 383,371,656,490,0
-PPMI_/train/Play_Guitar_035.jpg 265,346,670,512,0
-PPMI_/train/Play_Guitar_038.jpg 158,552,1298,1017,0
-PPMI_/train/Play_Guitar_039.jpg 465,574,1262,909,0
-PPMI_/train/Play_Guitar_040.jpg 144,227,543,371,0
-PPMI_/train/Play_Guitar_041.jpg 148,196,532,365,0
-PPMI_/train/Play_Guitar_043.jpg 338,892,2264,1648,0
-PPMI_/train/Play_Guitar_050.jpg 31,66,160,173,0
-PPMI_/train/Play_Guitar_056.jpg 188,258,536,395,0
-PPMI_/train/Play_Guitar_057.jpg 214,176,483,377,0
-PPMI_/train/Play_Guitar_058.jpg 10,86,234,196,0
-PPMI_/train/Play_Guitar_059.jpg 414,352,105,506,0
-PPMI_/train/Play_Guitar_064.jpg 60,157,326,311,0
-PPMI_/train/Play_Guitar_066.jpg 95,132,236,220,0
-PPMI_/train/Play_Guitar_067.jpg 240,288,795,561,0
-PPMI_/train/Play_Guitar_069.jpg 536,662,1528,1050,0 1116,650,2078,1024,0
-PPMI_/train/Play_Guitar_070.jpg 114,359,622,575,0
-PPMI_/train/Play_Guitar_072.jpg 280,557,1665,1077,0
-PPMI_/train/Play_Guitar_075.jpg 121,591,800,900,0
-PPMI_/train/Play_Guitar_077.jpg 53,151,336,348,0
-PPMI_/train/Play_Guitar_079.jpg 54,646,974,1064,0
-PPMI_/train/Play_Guitar_087.jpg 274,846,2004,1474,0
-PPMI_/train/Play_Guitar_090.jpg 572,377,1004,586,0
-PPMI_/train/Play_Guitar_093.jpg 59,196,506,373,0
-PPMI_/train/Play_Guitar_095.jpg 290,220,572,357,0
-PPMI_/train/Play_Guitar_097.jpg 58,435,898,765,0
-PPMI_/train/Play_Guitar_099.jpg 635,294,266,565,0
-PPMI_/train/Play_Guitar_103.jpg 762,333,348,828,0
-PPMI_/train/Play_Guitar_104.jpg 182,375,968,738,0
-PPMI_/train/Play_Guitar_105.jpg 1291,735,440,1164,0
-PPMI_/train/Play_Guitar_106.jpg 944,396,299,797,0
-PPMI_/train/Play_Guitar_107.jpg 271,180,751,385,0
-PPMI_/train/Play_Guitar_110.jpg 1275,781,510,1578,0
-PPMI_/train/Play_Guitar_112.jpg 787,426,306,683,0
-PPMI_/train/Play_Guitar_115.jpg 367,264,149,415,0 0,55,69,226,0 118,54,192,225,0 60,139,127,325,0 0,238,64,430,0 64,343,134,537,0 340,53,409,221,0 446,56,504,225,0 400,140,473,319,0 272,135,344,308,0 186,143,239,284,0 128,242,194,427,0 182,432,257,534,0 337,241,418,425,0 388,335,475,558,0 455,266,504,454,0 309,325,369,527,0
-PPMI_/train/Play_Guitar_116.jpg 311,467,683,686,0
-PPMI_/train/Play_Guitar_118.jpg 70,280,262,375,0
-PPMI_/train/Play_Guitar_119.jpg 310,305,552,470,0
-PPMI_/train/Play_Guitar_120.jpg 643,686,2099,1239,0
-PPMI_/train/Play_Guitar_121.jpg 237,840,1213,1314,0
-PPMI_/train/Play_Guitar_124.jpg 121,136,417,265,0
-PPMI_/train/Play_Guitar_125.jpg 509,603,1840,1105,0
-PPMI_/train/Play_Guitar_128.jpg 348,395,931,644,0
-PPMI_/train/Play_Guitar_129.jpg 75,137,336,248,0
-PPMI_/train/Play_Guitar_130.jpg 146,395,972,710,0
-PPMI_/train/Play_Guitar_131.jpg 137,218,267,326,0
-PPMI_/train/Play_Guitar_133.jpg 436,770,1900,1342,0
-PPMI_/train/Play_Guitar_134.jpg 479,806,1440,1301,0
-PPMI_/train/Play_Guitar_135.jpg 183,206,501,313,0
-PPMI_/train/Play_Guitar_136.jpg 118,310,558,540,0
-PPMI_/train/Play_Guitar_137.jpg 104,158,515,449,0
-PPMI_/train/Play_Guitar_138.jpg 618,486,1586,844,0
-PPMI_/train/Play_Guitar_140.jpg 79,327,562,542,0
-PPMI_/train/Play_Guitar_141.jpg 600,332,148,539,0
-PPMI_/train/Play_Guitar_142.jpg 286,214,576,333,0
-PPMI_/train/Play_Guitar_143.jpg 371,110,143,363,0
-PPMI_/train/Play_Guitar_144.jpg 268,202,549,337,0
-PPMI_/train/Play_Guitar_145.jpg 681,287,107,629,0
-PPMI_/train/Play_Guitar_147.jpg 787,329,64,650,0
-PPMI_/train/Play_Guitar_148.jpg 536,221,179,402,0
-PPMI_/train/Play_Guitar_149.jpg 639,341,217,530,0
-PPMI_/train/Play_Guitar_155.jpg 1024,383,269,688,0
-PPMI_/train/Play_Guitar_158.jpg 296,136,41,282,0
-PPMI_/train/Play_Guitar_159.jpg 249,95,639,354,0
-PPMI_/train/Play_Guitar_160.jpg 132,585,601,823,0
-PPMI_/train/Play_Guitar_161.jpg 730,392,91,621,0 928,98,448,508,0
-PPMI_/train/Play_Guitar_162.jpg 678,315,198,481,0
-PPMI_/train/Play_Guitar_164.jpg 763,291,288,476,0
-PPMI_/train/Play_Guitar_167.jpg 1160,405,121,789,0
-PPMI_/train/Play_Guitar_169.jpg 539,313,122,638,0
-PPMI_/train/Play_Guitar_171.jpg 679,150,315,435,0
-PPMI_/train/Play_Guitar_172.jpg 2031,1024,749,1480,0
-PPMI_/train/Play_Guitar_173.jpg 957,443,0,1066,0
-PPMI_/train/Play_Guitar_177.jpg 744,356,447,559,0
-PPMI_/train/Play_Guitar_179.jpg 426,162,182,258,0
-PPMI_/train/Play_Guitar_180.jpg 1202,526,172,914,0
-PPMI_/train/Play_Guitar_185.jpg 2217,790,1179,1629,0
-PPMI_/train/Play_Guitar_187.jpg 2,174,375,341,0
-PPMI_/train/Play_Guitar_191.jpg 636,1027,1843,1928,0
-PPMI_/train/Play_Guitar_194.jpg 194,275,689,529,0
-PPMI_/train/Play_Guitar_195.jpg 721,220,256,728,0
-PPMI_/train/Play_Guitar_196.jpg 165,205,482,348,0
-PPMI_/train/Play_Guitar_198.jpg 808,468,218,834,0
+PPMI_/train/With_Guitar_177.jpg 129,237,393,335,0 
+PPMI_/train/With_Guitar_183.jpg 100,16,217,300,0 
+PPMI_/train/With_Guitar_187.jpg 984,887,2457,1256,0 
+PPMI_/train/With_Guitar_000.jpg 170,383,302,434,0 306,408,381,485,0 
+PPMI_/train/With_Guitar_002.jpg 20,106,261,260,0 
+PPMI_/train/With_Guitar_003.jpg 211,362,693,588,0 610,400,901,498,0 
+PPMI_/train/With_Guitar_005.jpg 170,116,718,680,0 757,612,1144,875,0 
+PPMI_/train/With_Guitar_007.jpg 67,126,628,323,0 
+PPMI_/train/With_Guitar_009.jpg 88,46,216,378,0 311,53,453,379,0 15,214,81,420,0 5,4,63,196,0 
+PPMI_/train/With_Guitar_010.jpg 122,98,330,439,0 348,51,515,431,0 
+PPMI_/train/With_Guitar_011.jpg 132,116,461,395,0 
+PPMI_/train/With_Guitar_013.jpg 454,191,210,363,0 
+PPMI_/train/With_Guitar_014.jpg 99,17,127,123,0 186,15,241,124,0 216,69,273,243,0 253,163,305,291,0 35,213,281,292,0 76,81,111,195,0 
+PPMI_/train/With_Guitar_015.jpg 37,139,225,247,0 238,179,386,235,0 
+PPMI_/train/With_Guitar_017.jpg 61,131,218,330,0 167,133,242,323,0 257,85,427,251,0 
+PPMI_/train/With_Guitar_019.jpg 390,118,117,383,0 
+PPMI_/train/With_Guitar_023.jpg 188,65,539,378,0 
+PPMI_/train/With_Guitar_024.jpg 40,204,132,513,0 
+PPMI_/train/With_Guitar_026.jpg 39,119,308,229,0 
+PPMI_/train/With_Guitar_027.jpg 39,70,131,350,0 201,77,508,344,0 
+PPMI_/train/With_Guitar_028.jpg 202,170,321,278,0 320,205,457,260,0 375,74,413,186,0 
+PPMI_/train/With_Guitar_029.jpg 162,61,413,351,0 
+PPMI_/train/With_Guitar_030.jpg 181,319,450,69,0 
+PPMI_/train/With_Guitar_032.jpg 118,60,205,117,0 
+PPMI_/train/With_Guitar_035.jpg 196,152,469,235,0 
+PPMI_/train/With_Guitar_039.jpg 164,322,494,483,0 
+PPMI_/train/With_Guitar_040.jpg 246,117,380,340,0 
+PPMI_/train/With_Guitar_041.jpg 92,89,193,201,0 
+PPMI_/train/With_Guitar_044.jpg 216,145,448,249,0 
+PPMI_/train/With_Guitar_047.jpg 192,179,303,323,0 18,122,54,209,0 78,1,130,96,0 40,2,92,99,0 6,2,57,102,0 
+PPMI_/train/With_Guitar_048.jpg 37,157,201,281,0 
+PPMI_/train/With_Guitar_050.jpg 111,12,304,162,0 
+PPMI_/train/With_Guitar_054.jpg 35,251,220,359,0 
+PPMI_/train/With_Guitar_056.jpg 150,8,315,174,0 
+PPMI_/train/With_Guitar_057.jpg 283,97,380,235,0 447,128,476,189,0 
+PPMI_/train/With_Guitar_058.jpg 168,11,318,264,0 19,207,322,312,0 274,255,500,335,0 
+PPMI_/train/With_Guitar_059.jpg 25,126,254,195,0 
+PPMI_/train/With_Guitar_062.jpg 26,122,211,248,0 
+PPMI_/train/With_Guitar_063.jpg 22,15,284,361,0 
+PPMI_/train/With_Guitar_066.jpg 37,40,117,278,0 131,163,293,243,0 125,219,348,301,0 163,381,183,442,0 275,340,300,400,0 263,398,286,446,0 316,318,337,370,0 2,58,43,281,0 
+PPMI_/train/With_Guitar_067.jpg 193,316,346,146,0 
+PPMI_/train/With_Guitar_068.jpg 259,283,490,461,0 
+PPMI_/train/With_Guitar_071.jpg 60,4,218,366,0 318,3,449,360,0 
+PPMI_/train/With_Guitar_072.jpg 240,166,893,662,0 
+PPMI_/train/With_Guitar_073.jpg 73,15,201,396,0 262,1,392,427,0 
+PPMI_/train/With_Guitar_074.jpg 28,26,150,403,0 191,13,305,411,0 293,289,697,457,0 
+PPMI_/train/With_Guitar_076.jpg 408,390,169,640,0 
+PPMI_/train/With_Guitar_077.jpg 850,176,402,585,0 
+PPMI_/train/With_Guitar_080.jpg 533,8,640,340,0 192,457,547,600,0 19,368,155,465,0 
+PPMI_/train/With_Guitar_081.jpg 234,47,348,244,0 494,281,703,362,0 151,346,452,407,0 471,386,638,464,0 16,429,377,542,0 
+PPMI_/train/With_Guitar_083.jpg 392,28,839,548,0 
+PPMI_/train/With_Guitar_085.jpg 417,150,673,855,0 
+PPMI_/train/With_Guitar_086.jpg 185,171,420,691,0 
+PPMI_/train/With_Guitar_087.jpg 432,102,279,249,0 
+PPMI_/train/With_Guitar_089.jpg 249,19,353,308,0 
+PPMI_/train/With_Guitar_091.jpg 0,564,412,733,0 372,536,651,688,0 1025,544,1280,682,0 
+PPMI_/train/With_Guitar_092.jpg 32,210,369,400,0 
+PPMI_/train/With_Guitar_093.jpg 118,104,277,177,0 
+PPMI_/train/With_Guitar_097.jpg 145,175,294,559,0 414,195,641,552,0 250,446,696,611,0 
+PPMI_/train/With_Guitar_098.jpg 213,274,442,503,0 165,16,285,262,0 284,31,379,259,0 385,3,500,265,0 0,70,81,290,0 
+PPMI_/train/With_Guitar_102.jpg 204,124,331,174,0 333,162,446,188,0 454,135,588,172,0 130,151,249,190,0 
+PPMI_/train/With_Guitar_104.jpg 57,171,195,300,0 
+PPMI_/train/With_Guitar_105.jpg 38,116,181,168,0 
+PPMI_/train/With_Guitar_107.jpg 25,140,192,475,0 
+PPMI_/train/With_Guitar_108.jpg 223,209,519,345,0 
+PPMI_/train/With_Guitar_110.jpg 105,288,318,562,0 334,279,461,637,0 528,327,838,562,0 450,1,559,227,0 562,0,651,269,0 
+PPMI_/train/With_Guitar_112.jpg 7,128,123,398,0 167,125,257,382,0 314,118,428,410,0 449,124,553,408,0 104,454,385,480,0 
+PPMI_/train/With_Guitar_113.jpg 81,126,295,323,0 
+PPMI_/train/With_Guitar_116.jpg 314,406,638,638,0 
+PPMI_/train/With_Guitar_119.jpg 346,315,687,441,0 54,390,344,474,0 41,241,199,288,0 60,192,228,235,0 351,208,479,292,0 517,282,766,369,0 648,218,760,284,0 479,183,525,233,0 258,199,369,301,0 198,162,302,332,0 
+PPMI_/train/With_Guitar_121.jpg 200,366,426,958,0 318,281,785,757,0 836,303,1246,728,0 
+PPMI_/train/With_Guitar_125.jpg 15,296,433,364,0 122,109,246,305,0 254,87,343,166,0 
+PPMI_/train/With_Guitar_126.jpg 53,139,382,369,0 
+PPMI_/train/With_Guitar_129.jpg 100,225,440,317,0 
+PPMI_/train/With_Guitar_130.jpg 116,202,319,281,0 
+PPMI_/train/With_Guitar_136.jpg 60,299,177,616,0 133,325,310,388,0 259,238,394,491,0 415,302,551,605,0 
+PPMI_/train/With_Guitar_137.jpg 552,264,301,582,0 
+PPMI_/train/With_Guitar_141.jpg 276,89,73,364,0 
+PPMI_/train/With_Guitar_142.jpg 328,245,612,361,0 102,242,338,368,0 
+PPMI_/train/With_Guitar_144.jpg 335,5,93,221,0 
+PPMI_/train/With_Guitar_146.jpg 1825,822,324,2246,0 
+PPMI_/train/With_Guitar_149.jpg 856,284,1151,540,0 488,180,778,409,0 181,422,578,851,0 0,257,198,332,0 
+PPMI_/train/With_Guitar_151.jpg 554,141,388,376,0 381,210,254,382,0 28,248,163,347,0 
+PPMI_/train/With_Guitar_152.jpg 386,61,203,377,0 
+PPMI_/train/With_Guitar_154.jpg 200,173,446,271,0 4,179,282,289,0 
+PPMI_/train/With_Guitar_159.jpg 11,204,146,322,0 369,214,430,369,0 
+PPMI_/train/With_Guitar_160.jpg 41,225,360,410,0 229,235,360,480,0 
+PPMI_/train/With_Guitar_161.jpg 192,124,521,439,0 
+PPMI_/train/With_Guitar_163.jpg 372,258,534,325,0 381,148,281,298,0 112,230,260,306,0 
+PPMI_/train/With_Guitar_164.jpg 407,461,697,704,0 
+PPMI_/train/With_Guitar_165.jpg 76,166,379,286,0 
+PPMI_/train/With_Guitar_168.jpg 74,158,202,233,0 
+PPMI_/train/With_Guitar_170.jpg 489,330,960,588,0 848,430,1056,678,0 293,431,43,705,0 
+PPMI_/train/With_Guitar_171.jpg 0,149,105,205,0 87,86,129,149,0 239,207,73,291,0 212,247,400,300,0 400,194,326,264,0 360,180,239,229,0 
+PPMI_/train/With_Guitar_172.jpg 500,88,203,317,0 
+PPMI_/train/With_Guitar_174.jpg 366,205,171,373,0 
+PPMI_/train/With_Guitar_175.jpg 366,118,151,380,0 
+PPMI_/train/With_Guitar_176.jpg 457,169,254,287,0 
+PPMI_/train/Play_Guitar_003.jpg 1465,608,380,1058,0 
+PPMI_/train/Play_Guitar_004.jpg 844,261,429,501,0 
+PPMI_/train/Play_Guitar_007.jpg 113,332,665,534,0 
+PPMI_/train/Play_Guitar_014.jpg 634,337,450,430,0 
+PPMI_/train/Play_Guitar_019.jpg 1248,463,510,1312,0 
+PPMI_/train/Play_Guitar_020.jpg 380,125,42,309,0 
+PPMI_/train/Play_Guitar_021.jpg 832,494,1778,988,0 
+PPMI_/train/Play_Guitar_022.jpg 507,498,1020,716,0 411,390,604,895,0 
+PPMI_/train/Play_Guitar_023.jpg 200,221,464,335,0 
+PPMI_/train/Play_Guitar_024.jpg 489,424,968,606,0 
+PPMI_/train/Play_Guitar_025.jpg 410,372,1054,651,0 
+PPMI_/train/Play_Guitar_026.jpg 198,213,511,322,0 
+PPMI_/train/Play_Guitar_028.jpg 176,104,385,198,0 
+PPMI_/train/Play_Guitar_030.jpg 1021,377,129,960,0 
+PPMI_/train/Play_Guitar_031.jpg 41,148,320,299,0 
+PPMI_/train/Play_Guitar_033.jpg 167,406,1003,718,0 
+PPMI_/train/Play_Guitar_034.jpg 383,371,656,490,0 
+PPMI_/train/Play_Guitar_035.jpg 265,346,670,512,0 
+PPMI_/train/Play_Guitar_038.jpg 158,552,1298,1017,0 
+PPMI_/train/Play_Guitar_039.jpg 465,574,1262,909,0 
+PPMI_/train/Play_Guitar_040.jpg 144,227,543,371,0 
+PPMI_/train/Play_Guitar_041.jpg 148,196,532,365,0 
+PPMI_/train/Play_Guitar_043.jpg 338,892,2264,1648,0 
+PPMI_/train/Play_Guitar_050.jpg 31,66,160,173,0 
+PPMI_/train/Play_Guitar_056.jpg 188,258,536,395,0 
+PPMI_/train/Play_Guitar_057.jpg 214,176,483,377,0 
+PPMI_/train/Play_Guitar_058.jpg 10,86,234,196,0 
+PPMI_/train/Play_Guitar_059.jpg 414,352,105,506,0 
+PPMI_/train/Play_Guitar_064.jpg 60,157,326,311,0 
+PPMI_/train/Play_Guitar_066.jpg 95,132,236,220,0 
+PPMI_/train/Play_Guitar_067.jpg 240,288,795,561,0 
+PPMI_/train/Play_Guitar_069.jpg 536,662,1528,1050,0 1116,650,2078,1024,0 
+PPMI_/train/Play_Guitar_070.jpg 114,359,622,575,0 
+PPMI_/train/Play_Guitar_072.jpg 280,557,1665,1077,0 
+PPMI_/train/Play_Guitar_075.jpg 121,591,800,900,0 
+PPMI_/train/Play_Guitar_077.jpg 53,151,336,348,0 
+PPMI_/train/Play_Guitar_079.jpg 54,646,974,1064,0 
+PPMI_/train/Play_Guitar_087.jpg 274,846,2004,1474,0 
+PPMI_/train/Play_Guitar_090.jpg 572,377,1004,586,0 
+PPMI_/train/Play_Guitar_093.jpg 59,196,506,373,0 
+PPMI_/train/Play_Guitar_095.jpg 290,220,572,357,0 
+PPMI_/train/Play_Guitar_097.jpg 58,435,898,765,0 
+PPMI_/train/Play_Guitar_099.jpg 635,294,266,565,0 
+PPMI_/train/Play_Guitar_103.jpg 762,333,348,828,0 
+PPMI_/train/Play_Guitar_104.jpg 182,375,968,738,0 
+PPMI_/train/Play_Guitar_105.jpg 1291,735,440,1164,0 
+PPMI_/train/Play_Guitar_106.jpg 944,396,299,797,0 
+PPMI_/train/Play_Guitar_107.jpg 271,180,751,385,0 
+PPMI_/train/Play_Guitar_110.jpg 1275,781,510,1578,0 
+PPMI_/train/Play_Guitar_112.jpg 787,426,306,683,0 
+PPMI_/train/Play_Guitar_115.jpg 367,264,149,415,0 0,55,69,226,0 118,54,192,225,0 60,139,127,325,0 0,238,64,430,0 64,343,134,537,0 340,53,409,221,0 446,56,504,225,0 400,140,473,319,0 272,135,344,308,0 186,143,239,284,0 128,242,194,427,0 182,432,257,534,0 337,241,418,425,0 388,335,475,558,0 455,266,504,454,0 309,325,369,527,0 
+PPMI_/train/Play_Guitar_116.jpg 311,467,683,686,0 
+PPMI_/train/Play_Guitar_118.jpg 70,280,262,375,0 
+PPMI_/train/Play_Guitar_119.jpg 310,305,552,470,0 
+PPMI_/train/Play_Guitar_120.jpg 643,686,2099,1239,0 
+PPMI_/train/Play_Guitar_121.jpg 237,840,1213,1314,0 
+PPMI_/train/Play_Guitar_124.jpg 121,136,417,265,0 
+PPMI_/train/Play_Guitar_125.jpg 509,603,1840,1105,0 
+PPMI_/train/Play_Guitar_128.jpg 348,395,931,644,0 
+PPMI_/train/Play_Guitar_129.jpg 75,137,336,248,0 
+PPMI_/train/Play_Guitar_130.jpg 146,395,972,710,0 
+PPMI_/train/Play_Guitar_131.jpg 137,218,267,326,0 
+PPMI_/train/Play_Guitar_133.jpg 436,770,1900,1342,0 
+PPMI_/train/Play_Guitar_134.jpg 479,806,1440,1301,0 
+PPMI_/train/Play_Guitar_135.jpg 183,206,501,313,0 
+PPMI_/train/Play_Guitar_136.jpg 118,310,558,540,0 
+PPMI_/train/Play_Guitar_137.jpg 104,158,515,449,0 
+PPMI_/train/Play_Guitar_138.jpg 618,486,1586,844,0 
+PPMI_/train/Play_Guitar_140.jpg 79,327,562,542,0 
+PPMI_/train/Play_Guitar_141.jpg 600,332,148,539,0 
+PPMI_/train/Play_Guitar_142.jpg 286,214,576,333,0 
+PPMI_/train/Play_Guitar_143.jpg 371,110,143,363,0 
+PPMI_/train/Play_Guitar_144.jpg 268,202,549,337,0 
+PPMI_/train/Play_Guitar_145.jpg 681,287,107,629,0 
+PPMI_/train/Play_Guitar_147.jpg 787,329,64,650,0 
+PPMI_/train/Play_Guitar_148.jpg 536,221,179,402,0 
+PPMI_/train/Play_Guitar_149.jpg 639,341,217,530,0 
+PPMI_/train/Play_Guitar_155.jpg 1024,383,269,688,0 
+PPMI_/train/Play_Guitar_158.jpg 296,136,41,282,0 
+PPMI_/train/Play_Guitar_159.jpg 249,95,639,354,0 
+PPMI_/train/Play_Guitar_160.jpg 132,585,601,823,0 
+PPMI_/train/Play_Guitar_161.jpg 730,392,91,621,0 928,98,448,508,0 
+PPMI_/train/Play_Guitar_162.jpg 678,315,198,481,0 
+PPMI_/train/Play_Guitar_164.jpg 763,291,288,476,0 
+PPMI_/train/Play_Guitar_167.jpg 1160,405,121,789,0 
+PPMI_/train/Play_Guitar_169.jpg 539,313,122,638,0 
+PPMI_/train/Play_Guitar_171.jpg 679,150,315,435,0 
+PPMI_/train/Play_Guitar_172.jpg 2031,1024,749,1480,0 
+PPMI_/train/Play_Guitar_173.jpg 957,443,0,1066,0 
+PPMI_/train/Play_Guitar_177.jpg 744,356,447,559,0 
+PPMI_/train/Play_Guitar_179.jpg 426,162,182,258,0 
+PPMI_/train/Play_Guitar_180.jpg 1202,526,172,914,0 
+PPMI_/train/Play_Guitar_185.jpg 2217,790,1179,1629,0 
+PPMI_/train/Play_Guitar_187.jpg 2,174,375,341,0 
+PPMI_/train/Play_Guitar_191.jpg 636,1027,1843,1928,0 
+PPMI_/train/Play_Guitar_194.jpg 194,275,689,529,0 
+PPMI_/train/Play_Guitar_195.jpg 721,220,256,728,0 
+PPMI_/train/Play_Guitar_196.jpg 165,205,482,348,0 
+PPMI_/train/Play_Guitar_198.jpg 808,468,218,834,0 
