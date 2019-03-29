@@ -1,0 +1,11 @@
+guitar 228 256 978 612
+guitar 626 2 721 204
+guitar 694 0 817 268
+guitar 771 4 869 158
+guitar 393 42 443 238
+guitar 266 5 398 232
+guitar 174 31 289 371
+guitar 69 3 203 217
+guitar 1 31 104 395
+guitar 4 210 293 768
+guitar 76 231 218 625
